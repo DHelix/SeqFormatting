@@ -1,5 +1,5 @@
 //#####################################################################################
-//Author: Dan Jin
+//Author: DHelix
 //Date: March 11, 2011
 //Version: 1.0
 //Contact: j.d.helix@gmail.com
