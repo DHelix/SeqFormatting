@@ -1,0 +1,239 @@
+TSeqformatting
+v7
+r0
+t374606382.356007
+cCheck dependencies
+cCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/../IFImageProcessing/itoa.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting normal x86_64
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C445C5F00000000000000EE
+t1279548511
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/dirent.h
+c0000000047BA993100000000000014E4
+t1203411249
+s5348
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/errno.h
+c0000000047BA993000000000000003EB
+t1203411248
+s1003
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/math.h
+c0000000047BA987000000000000004B7
+t1203411056
+s1207
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/memory.h
+c0000000047BA99300000000000000765
+t1203411248
+s1893
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/string.h
+c0000000047BA99320000000000001731
+t1203411250
+s5937
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/time.h
+c0000000047BA9932000000000000178E
+t1203411250
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dirent.h
+c000000004AC59C8100000000000016D3
+t1254464641
+s5843
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004AC59C8100000000000003EB
+t1254464641
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/memory.h
+c000000004AC59C810000000000000765
+t1254464641
+s1893
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/../IFImageProcessing/itoa.c
+c000000004A8C4CFB0000000000000357
+t1250708731
+s855
+i<stdio.h>
+i<stdlib.h>
+i<errno.h>
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting
+t1352913536
+s14184
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/Seqformatting.LinkFileList
+c0000000050A3D27F0000000000000108
+t1352913535
+s264
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o
+t1306507934
+s3208
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+t1349204078
+s7776
+
+N/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c
+c00000000506B386E0000000000001517
+t1349204078
+s5399
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+i<math.h>
+i<memory.h>
+i<dirent.h>
+i<string.h>
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c
+c000000004A8C4CFB0000000000000357
+t1250708731
+s855
+i<stdio.h>
+i<stdlib.h>
+i<errno.h>
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting
+t1315945147
+s14184
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/Seqformatting.LinkFileList
+c000000004DDF1AEA0000000000000108
+t1306467050
+s264
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o
+t1306507934
+s3208
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+t1315945147
+s7776
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c
+c000000004E6FB9FE00000000000012CD
+t1315944958
+s4813
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+i<math.h>
+i<memory.h>
+i<dirent.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374606382#374606382#0(0"0(0#1#0"8605796608#0"0#
+
+CCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/../IFImageProcessing/itoa.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328200734.231665
+e328200734.303738
+r1
+xCompileC
+xbuild/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o
+x/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c328200734#328200734#0(0"0(0#0#78"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c8029405159545332736#1531"    cd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-generated-files.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-own-target-headers.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-all-target-headers.hmap -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-project-headers.hmap -F/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/include -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources/x86_64 -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources -c /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/../IFImageProcessing/itoa.c -o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/itoa.o0#
+
+CCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s374606335.853411
+e374606335.928319
+r1
+xCompileC
+xbuild/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+x/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c374606335#374606335#0(0"0(0#0#57"/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c8029405159545332736#1510"    cd /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-generated-files.hmap -I/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-own-target-headers.hmap -I/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-all-target-headers.hmap -iquote /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-project-headers.hmap -F/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug -I/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/include -I/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources/x86_64 -I/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources -c /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/main.c -o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s337637947.279253
+e337637947.333685
+r1
+xCompileC
+xbuild/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+x/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c337637947#337637947#0(0"0(0#0#57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c8029405159545332736#1510"    cd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-generated-files.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-own-target-headers.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-all-target-headers.hmap -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-project-headers.hmap -F/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/include -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources/x86_64 -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources -c /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c -o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting normal x86_64
+s374606335.928498
+e374606336.470002
+r1
+xLd
+x/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting374606335#374606336#0(0"0(0#0#0"8605192576#582"    cd /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug -F/Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug -filelist /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/Seqformatting.LinkFileList -mmacosx-version-min=10.5 -o /Users/Dan/Dropbox/Programming/Xcode/SeqFormatting/build/Debug/Seqformatting0#
+
+CLd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting normal x86_64
+s337637947.333780
+e337637947.344335
+r1
+xLd
+x/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting337637947#337637947#0(0"0(0#0#0"28429329133142120#582"    cd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug -F/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug -filelist /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/Seqformatting.LinkFileList -mmacosx-version-min=10.5 -o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting0#
+

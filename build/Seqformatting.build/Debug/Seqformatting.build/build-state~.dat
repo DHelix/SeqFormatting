@@ -1,0 +1,80 @@
+TSeqformatting
+v7
+r0
+t328146011.063715
+cCheck dependencies
+cCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dirent.h
+c000000004AC59C8100000000000016D3
+t1254464641
+s5843
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting
+t2
+s0
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/Seqformatting.LinkFileList
+c000000004DDEE4DB0000000000000084
+t1306453211
+s132
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c
+c000000004DDEE4D800000000000005C8
+t1306453208
+s1480
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+i<dirent.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328146010#328146011#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328146011.039638
+e328146011.063582
+r0
+xCompileC
+xbuild/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o
+x/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146011#328146011#0(1061"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c: In function 'main':/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:26: error: conflicting types for 'DNADirPath'/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:25: error: previous declaration of 'DNADirPath' was here/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:49: error: 'dataDirFile' undeclared (first use in this function)/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:49: error: (Each undeclared identifier is reported only once/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:49: error: for each function it appears in.)/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:59: warning: format '%s' expects type 'char *', but argument 2 has type 'int'/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:26: warning: unused variable 'DNADirPath'/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:23: warning: unused variable 'k'/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c:23: warning: unused variable 'j'7(4@34"Conflicting types for 'DNADirPath'328146011#79#104#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#26#0#26#0#25"conflicting types for '*'0(13@45"Previous declaration of 'DNADirPath' was here328146011#183#115#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#25#0#25#0#0"0(4@53"'dataDirFile' undeclared (first use in this function)328146011#298#123#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#49#0#49#0#43"'*' undeclared (first use in this function)0(22@64"Format '%s' expects type 'char *', but argument 2 has type 'int'328146011#643#136#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#59#0#59#0#56"format '*' expects type '*', but argument * has type '*'0(22@28"Unused variable 'DNADirPath'328146011#779#100#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#26#0#26#0#19"unused variable '*'0(22@19"Unused variable 'k'328146011#879#91#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#23#0#23#0#19"unused variable '*'0(22@19"Unused variable 'j'328146011#970#91#0(6@57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c328146008#23#0#23#0#19"unused variable '*'0(0#0#57"/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c8029405159545332736#1510"    cd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-generated-files.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-own-target-headers.hmap -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-all-target-headers.hmap -iquote /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Seqformatting-project-headers.hmap -F/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/include -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources/x86_64 -I/Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/DerivedSources -c /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/main.c -o /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Seqformatting.build/Debug/Seqformatting.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Dan/Dropbox/Programming/Xcode/Seqformatting/build/Debug/Seqformatting normal x86_64
+r0
+
